@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "ingles"
+    },
+    {
+        "id": 2,
+        "nombre": "español "
+    },
+    {
+        "id": 3,
+        "nombre": "sistemas"
+    },
+    {
+        "id": 4,
+        "nombre": "calculo"
+    }
+]
